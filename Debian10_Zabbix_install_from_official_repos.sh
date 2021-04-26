@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# STILL WORKING ON IT!!!!!
+
 # This script will install Zabbix 5.2 from repositories
 # in a fresh Debian 10 Buster installation.
 
